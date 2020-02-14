@@ -1,6 +1,6 @@
 # Houndify Unity Example
 
-![screenshot](https://p54.f0.n0.cdn.getcloudapp.com/items/eDux281G/HoundCasio.png?v=d07330604d4930ef3d964a9ddf5f77c3)
+![screenshot](./HoundCasino.png)
 
 This repository provides examples using the [Houndify C# SDK](https://www.houndify.com/sdks#CSharp), which allows you to integrate Voice AI into your Unity applications or others that utilize C#.
 
